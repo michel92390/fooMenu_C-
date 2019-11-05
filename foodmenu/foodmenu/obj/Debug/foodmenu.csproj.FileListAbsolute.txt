@@ -1,0 +1,72 @@
+E:\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe.config
+E:\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe
+E:\projects\foodmenu\foodmenu\bin\Debug\foodmenu.pdb
+E:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csprojResolveAssemblyReference.cache
+E:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Form1.resources
+E:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Properties.Resources.resources
+E:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csproj.GenerateResource.Cache
+E:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.exe
+E:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.pdb
+D:\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe.config
+D:\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe
+D:\projects\foodmenu\foodmenu\bin\Debug\foodmenu.pdb
+D:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csprojAssemblyReference.cache
+D:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Properties.Resources.resources
+D:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csproj.GenerateResource.cache
+D:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csproj.CoreCompileInputs.cache
+D:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.exe
+D:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.pdb
+D:\projects\foodmenu\foodmenu\obj\Debug\foodmenu.imgBackgroundMenu.resources
+E:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe.config
+E:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.exe
+E:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.pdb
+E:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe
+E:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\bin\Debug\foodmenu.pdb
+E:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csprojResolveAssemblyReference.cache
+E:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.imgBackgroundMenu.resources
+E:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Properties.Resources.resources
+E:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csproj.GenerateResource.Cache
+D:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe.config
+D:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe
+D:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\bin\Debug\foodmenu.pdb
+D:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csprojAssemblyReference.cache
+D:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.imgBackgroundMenu.resources
+D:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Properties.Resources.resources
+D:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csproj.GenerateResource.cache
+D:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csproj.CoreCompileInputs.cache
+D:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.exe
+D:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.pdb
+E:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Form2.resources
+D:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Form2.resources
+F:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe.config
+F:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe
+F:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\bin\Debug\foodmenu.pdb
+F:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csprojAssemblyReference.cache
+F:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.imgBackgroundMenu.resources
+F:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Form2.resources
+F:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Properties.Resources.resources
+F:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csproj.GenerateResource.cache
+F:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csproj.CoreCompileInputs.cache
+F:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.exe
+F:\BMET\9-Event Driven Programming 6 ALI\projects\foodmenu\foodmenu\obj\Debug\foodmenu.pdb
+E:\BMET\9-Event Driven Programming 6 FINISH\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe.config
+E:\BMET\9-Event Driven Programming 6 FINISH\projects\foodmenu\foodmenu\obj\Debug\foodmenu.exe
+E:\BMET\9-Event Driven Programming 6 FINISH\projects\foodmenu\foodmenu\obj\Debug\foodmenu.pdb
+E:\BMET\9-Event Driven Programming 6 FINISH\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe
+E:\BMET\9-Event Driven Programming 6 FINISH\projects\foodmenu\foodmenu\bin\Debug\foodmenu.pdb
+E:\BMET\9-Event Driven Programming 6 FINISH\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csprojResolveAssemblyReference.cache
+E:\BMET\9-Event Driven Programming 6 FINISH\projects\foodmenu\foodmenu\obj\Debug\foodmenu.imgBackgroundMenu.resources
+E:\BMET\9-Event Driven Programming 6 FINISH\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Form2.resources
+E:\BMET\9-Event Driven Programming 6 FINISH\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Properties.Resources.resources
+E:\BMET\9-Event Driven Programming 6 FINISH\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csproj.GenerateResource.Cache
+D:\2018-2019\BMET\BMET\Event Driven Programming\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe.config
+D:\2018-2019\BMET\BMET\Event Driven Programming\projects\foodmenu\foodmenu\bin\Debug\foodmenu.exe
+D:\2018-2019\BMET\BMET\Event Driven Programming\projects\foodmenu\foodmenu\bin\Debug\foodmenu.pdb
+D:\2018-2019\BMET\BMET\Event Driven Programming\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csprojAssemblyReference.cache
+D:\2018-2019\BMET\BMET\Event Driven Programming\projects\foodmenu\foodmenu\obj\Debug\foodmenu.imgBackgroundMenu.resources
+D:\2018-2019\BMET\BMET\Event Driven Programming\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Form2.resources
+D:\2018-2019\BMET\BMET\Event Driven Programming\projects\foodmenu\foodmenu\obj\Debug\foodmenu.Properties.Resources.resources
+D:\2018-2019\BMET\BMET\Event Driven Programming\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csproj.GenerateResource.cache
+D:\2018-2019\BMET\BMET\Event Driven Programming\projects\foodmenu\foodmenu\obj\Debug\foodmenu.csproj.CoreCompileInputs.cache
+D:\2018-2019\BMET\BMET\Event Driven Programming\projects\foodmenu\foodmenu\obj\Debug\foodmenu.exe
+D:\2018-2019\BMET\BMET\Event Driven Programming\projects\foodmenu\foodmenu\obj\Debug\foodmenu.pdb
